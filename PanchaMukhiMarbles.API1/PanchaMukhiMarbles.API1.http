@@ -1,0 +1,6 @@
+@PanchaMukhiMarbles.API1_HostAddress = http://localhost:5119
+
+GET {{PanchaMukhiMarbles.API1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
