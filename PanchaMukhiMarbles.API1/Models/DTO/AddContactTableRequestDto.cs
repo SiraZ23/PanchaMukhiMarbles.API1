@@ -5,7 +5,7 @@ namespace PanchaMukhiMarbles.API1.Models.DTO
     public class AddContactTableRequestDto
     {
         [Required]
-        public string[] PhoneNumber { get; set; }
+        public string[] PhoneNumber{ get; set; }
 
         [Required]
         public string[] Whatsapp { get; set; }
